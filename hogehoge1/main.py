@@ -2,6 +2,7 @@ import functions_framework
 import google.cloud.storage
 
 # hogehogehoge
+# hello,world
 
 @functions_framework.http
 def hello_http(request):
